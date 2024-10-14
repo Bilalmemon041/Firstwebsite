@@ -1,0 +1,45 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+
+#forform{
+   text-align: center;
+    background-color: beige;
+    width: 40%;
+    height: 100vh;
+    border: 2px solid black;
+
+}
+form{
+    
+    
+    
+    text-align: center;
+    border-radius: 2%;
+    
+}
+
+h1{
+    color: rgb(214, 85, 122);
+}
+
+.forsection{
+    display: flex;
+    justify-content: center; 
+} 
+section{
+    border: 2px solid black;
+    border-radius: 10%;
+    width: 70%;
+    height: 25px;
+    background-color: grey;
+    color: white;
+    font-size: larger;
+}
+
+label  , input{
+    font-size: x-large;
+    margin-right: 20px;
+    
+}
